@@ -1,7 +1,7 @@
 <h3 align="center">Foysal Khandakar Joy</h3>
 <h4 align="center">Thinking-Solving-Programming-Creating</h4>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khjoyfoysal@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fkhj.dev@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkhjoy/)
 [![Kaggle Follow](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/fkhjoy)
 [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fkhjoy)

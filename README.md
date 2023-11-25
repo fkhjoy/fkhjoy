@@ -1,9 +1,8 @@
 <h3 align="center">Foysal Khandakar Joy</h3>
 <h4 align="center">Thinking-Solving-Programming-Creating</h4>
 
-[![Buy me coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/foysaljoy)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fkhj.dev@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkhjoy/)
 [![Kaggle Follow](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/fkhjoy)
 [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fkhjoy)
 
@@ -20,6 +19,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 #### Platforms:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/aws/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/docker/docker.png"></code>
 #### Tools:
@@ -28,8 +28,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 ---
-- 🔭 <b>Currently Working with</b>: C++, Python, Go, JavaScript, Docker, Django, RESTful API, gRPC
-- 🌱 <b>Learning more about</b>: Web, AWS, Azure, Data Structures & Algorithms
+- 🔭 <b>Currently Working with</b>: Python, Go, AWS(Lambda, S3,..), REST, gRPC
+- 🌱 <b>Learning more about</b>: Complex Systems...
 - 👯 <b>Looking to collaborate on</b>: Open Source Software Application, IoT, Computer Vision, NLP, Optimization problem
 - ⚡ <b>Fun fact</b>: I enjoy stress
 
